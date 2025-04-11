@@ -1,8 +1,10 @@
 ---
-title: Fielding Positions
-weight: 5
-excerpt: A visual guide to cricket formations — slips, silly point, mid-wicket and more.
+title: Fielding Formations 101
+weight: 2
+excerpt: Every position on the field has a purpose. Learn the key role that field setups play. 
 layout: section
 ---
 
-Every fielding position has a purpose. This quick overview explains where players stand and how strategies adapt to pace, spin, or game context.
+The bowling side in cricket has 11 fielders which it can strategically position to set traps for the batsman. The field is split into an inner and outer circle. 
+
+Key spots like the slip, gully, point, mid-on, mid-off, deep square leg, and third man are crucial for executing bowling plans. 
