@@ -1,8 +1,12 @@
 ---
-title: Fast Bowling Analysis
+title: Pace Unleashed
 weight: 1
-excerpt: Explore the biomechanics behind speed, stride length, hip rotation, and release angle in pace bowlers.
+excerpt: Explore the biomechanics and tactics behind fiery fast bowling. 
 layout: section
 ---
 
-Fast bowling in cricket relies on force generation, momentum transfer, and full-body coordination. This section breaks down the critical phases of fast bowling.
+In the 2021 Indian Premier League (IPL) showdown between the Punjab Kings and Rajasthan Royals, Arshdeep Singh delivered a masterclass in fast bowling. Grabbing 5 wickets for just 32 runs, his spell dismantled the Royals' top and middle orders. 
+
+What made this performance special wasn't just the wickets, it was the underlying technique that makes this incredibly fascinating. 
+
+Through our video analysis, we break down Arshdeep's seam position, wrist alignment, and release point. Revealing how he generated both swing and accuracy to consistently hit challenging lengths under pressure. 
