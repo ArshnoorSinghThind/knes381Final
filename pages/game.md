@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Maze Game
-permalink: /projects/
+permalink: /game/
 ---
 
 ## 🔄 Scratch Maze Game  
