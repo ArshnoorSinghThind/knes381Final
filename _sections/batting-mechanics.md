@@ -1,7 +1,7 @@
 ---
 title: The Perfect Swing
 weight: 3
-excerpt: Dissecting the perfect stance, footwork, and follow-through. A deep dive into what powers elite-level batting.
+excerpt: A deep dive into what powers elite-level batting.
 layout: section
 ---
 
