@@ -21,4 +21,4 @@ The About Me Page provides a brief introduction about me, and the motivation beh
 
 ## Concluding Statements 
 Overall, I enjoyed my time in KNES 381 with Dr. Holash, who was an excellent professor! Dr. Holash’s approach to teaching allowed me to deeply engage with the material, and his real-time 
-feedback on my projects was invaluable in helping me improve my understanding of key concepts. The hands-on experience I gained from this class was incredibly unique and valuable!
+feedback on my projects was incredibly important in helping me improve my understanding of key concepts. The hands-on experience I gained from this class was incredibly unique and valuable!
