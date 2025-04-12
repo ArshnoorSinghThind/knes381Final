@@ -8,3 +8,5 @@ layout: section
 The bowling side in cricket has 11 fielders which it can strategically position to set traps for the batsman. The field is split into an inner and outer circle. 
 
 Key spots like the slip, gully, point, mid-on, mid-off, deep square leg, and third man are crucial for executing bowling plans. 
+
+<img src="/images/illustrations/fieldingpositions.png" width="500" height="350" align="right">
