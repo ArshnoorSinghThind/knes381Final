@@ -13,5 +13,5 @@ Using video analysis, we will unpack the secretes of Harbhajan's off-spin bowlin
 
 <section id="deception-in-motion">
   <p>Watch this video to see spinning deception in action:</p>
-  <iframe width="640" height="360" src="https://www.youtube.com/watch?v=BjHCxWPquMA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="640" height="360" src="https://www.youtube.com/embed/BjHCxWPquMA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </section>
