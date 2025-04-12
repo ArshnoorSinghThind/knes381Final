@@ -12,7 +12,10 @@ Hey! I'm Arshnoor Singh Thind, a third-year Kinesiology student at the Universit
 
 Whether it's studying biomechanics or smashing sixes, I bring focus, drive, and discipline to everything I do. I'm also deeply inspired by Sikh history and Gurbani, grounding myself in faith and resilience through life’s innings.
 
-"Cricket is not just a game, it's a war of patience, skill, and heart."
-
 "ਦੇਹ ਸਿਵਾ ਬਰੁ ਮੋਹਿ ਇਹੈ ਸੁਭ ਕਰਮਨ ਤੇ ਕਬਹੂੰ ਨ ਟਰੋਂ ॥" 
-"Deh siva bar mohe eh-hey subh karman te kabhu na taro ॥" – O Lord, grant me this boon, May I never deviate from good deeds ॥
+
+"Deh siva bar mohe eh-hey subh karman te kabhu na taro ॥" 
+
+- O Lord, grant me this boon, May I never deviate from good deeds ॥
+
+- Sri Guru Gobind Singh Ji Maharaj 
